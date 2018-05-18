@@ -4,6 +4,7 @@
 [![bitHound Overall Score](https://www.bithound.io/github/autonomoussoftware/time-bombs/badges/score.svg)](https://www.bithound.io/github/autonomoussoftware/time-bombs)
 [![bitHound Dependencies](https://www.bithound.io/github/autonomoussoftware/time-bombs/badges/dependencies.svg)](https://www.bithound.io/github/autonomoussoftware/time-bombs/master/dependencies/npm)
 [![bitHound Code](https://www.bithound.io/github/autonomoussoftware/time-bombs/badges/code.svg)](https://www.bithound.io/github/autonomoussoftware/time-bombs)
+[![Known Vulnerabilities](https://snyk.io/test/github/autonomoussoftware/time-bombs:package.json/badge.svg?targetFile=package.json)](https://snyk.io/test/github/autonomoussoftware/time-bombs:package.json?targetFile=package.json)
 
 Create time bombs and listen for them to 💥
 
